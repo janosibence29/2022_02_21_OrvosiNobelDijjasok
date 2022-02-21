@@ -42,35 +42,35 @@ namespace _2022_02_21_OrvosiNobelDijjasok
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(92, 12);
+            this.textBox1.Location = new System.Drawing.Point(66, 12);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(42, 20);
             this.textBox1.TabIndex = 0;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(92, 38);
+            this.textBox2.Location = new System.Drawing.Point(66, 38);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(149, 20);
             this.textBox2.TabIndex = 1;
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(92, 64);
+            this.textBox3.Location = new System.Drawing.Point(66, 64);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(118, 20);
             this.textBox3.TabIndex = 2;
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(92, 90);
+            this.textBox4.Location = new System.Drawing.Point(66, 90);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(100, 20);
             this.textBox4.TabIndex = 3;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(96, 231);
+            this.button1.Location = new System.Drawing.Point(88, 131);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(96, 23);
             this.button1.TabIndex = 4;
@@ -109,15 +109,15 @@ namespace _2022_02_21_OrvosiNobelDijjasok
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(7, 90);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(40, 13);
+            this.label4.Size = new System.Drawing.Size(43, 13);
             this.label4.TabIndex = 8;
-            this.label4.Text = "Ország";
+            this.label4.Text = "Ország:";
             // 
             // btnAdatokmentese
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(369, 283);
+            this.ClientSize = new System.Drawing.Size(262, 158);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
